@@ -34,7 +34,7 @@ function eventos_json(&$eventos){
 
 function getEventos($fecha){
     require 'config.php';
-        $sql = "CALL `getEventos`('$fecha')";
+        $sql = "CALL getEventos('2021-05-05')";
         $resultado = $link->query($sql);
         $dia = array();
         $categoria = array();

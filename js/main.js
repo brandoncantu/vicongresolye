@@ -331,6 +331,7 @@ $(function(){
 
     //Menu movil
     $('.menu-movil').on('click', function(){
+        console.log('click menu');
         $('.navegacion-principal').slideToggle();
         $('.menu-movil span:first ').slideToggle();
         $('.menu-movil span:nth-child(3) ').slideToggle();
