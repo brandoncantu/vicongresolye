@@ -2,7 +2,7 @@
 
   <section class="seccion contenedor pag-index">
     <h2>La mejor conferencia de liderazgo y emprendimiento para jóvenes</h2>
-    <p>El VI Congreso de Lideres y Emprendedores de la Universidad del valle de México ya está aquí.
+    <p>El VI Congreso de Lideres y Emprendedores de la Universidad del Valle de México ya está aquí.
     Desde ponencias y conferencias impartidas por expertos, hasta dinámicas y actividades que harán despertar
     tus habilidades de líder y explotarlas tanto como desees.</p>
   </section>
